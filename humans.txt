@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site: 
-  Twitter: 
-  Location: 
+  Orange Sparkle Ball  
+  Site: http://orangesparkleball.com
+  Twitter: @orangesparkle
+
 
 /* THANKS */
   Names (& URL): 
@@ -15,29 +15,28 @@
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
   Software:
-  
 
-                                    
-                               -o/-                       
-                               +oo//-                     
-                              :ooo+//:                    
-                             -ooooo///-                   
-                             /oooooo//:                   
-                            :ooooooo+//-                  
-                           -+oooooooo///-                 
-           -://////////////+oooooooooo++////////////::    
-            :+ooooooooooooooooooooooooooooooooooooo+:::-  
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-   
-                     -:+ooooooooooooooooo+:://////:--     
-                       /ooooooooooooooooo+//////:-        
-                      -ooooooooooooooooooo////-           
-                      /ooooooooo+oooooooooo//:            
-                     :ooooooo+/::/+oooooooo+//-           
-                    -oooooo/::///////+oooooo///-          
-                    /ooo+::://////:---:/+oooo//:          
-                   -o+/::///////:-      -:/+o+//-         
-                   :-:///////:-            -:/://         
-                     -////:-                 --//:        
-                       --                       -:        
+
+
+                
+                
+                
+                
+    ;@@@@@@     
+   @@@@@@@@@,   
+  @@@@@@,  ;@.  
+ ;@@@@@      @  
+ @@@@@,      ': 
+ @@@@@   ,@@` @ 
+ @@@@@   @@ @ @ 
+ @@@@@   @@ @ @     orange sparkle ball
+ @@@@@   #@@, @ 
+ @@@@@#      @` 
+ `@@@@@,    '@  
+  +@@@@@@;;@@   
+   ;@@@@@@@@    
+     '@@@@.     
+                
+                
+                
+ 
