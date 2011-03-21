@@ -1,0 +1,11 @@
+!!! 5
+!= cc_html(:lang => 'en') do
+  %head
+    = partial('headstuff')
+  %body
+    #container
+      %header= partial('header')
+      #main(role="main")
+        = yield
+      %footer= partial('footer')
+    = jquery_with_fallback()

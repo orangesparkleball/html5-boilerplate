@@ -1,6 +1,17 @@
 #  HTML5 Boilerplate [http://html5boilerplate.com](http://html5boilerplate.com)
 
-OSB HTML5 Boilerplate.
+OSB HTML5 Boilerplate - html5boilerplate adapted to use staticmatic.
+
+To use: 
+
+    $ bundle install
+    $ bundle exec staticmatic preview .
+    ... test changes ...
+    $ bundle exec staticmatic build .
+
+
+Useful links for development
+============================
 
 Mobile App Info
 ---------------
