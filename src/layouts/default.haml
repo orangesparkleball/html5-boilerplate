@@ -8,4 +8,4 @@
       #main(role="main")
         = yield
       %footer= partial('footer')
-    = jquery_with_fallback()
+    = jquery_with_fallback(CONFIG.to_hash)
