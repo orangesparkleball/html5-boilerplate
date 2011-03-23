@@ -4,6 +4,13 @@
           box-shadow: inset $offset_x $offset_y $spread $color;
 }
 
+
+@mixin drop_shadow($color, $spread = 5px, $offset_x = 0px, $offset_y = $offset_x) {
+     -moz-box-shadow: $offset_x $offset_y $spread $color;
+  -webkit-box-shadow: $offset_x $offset_y $spread $color;
+          box-shadow: $offset_x $offset_y $spread $color;
+}
+
 @mixin linear_gradient($top_color, $bottom_color, $fallback = $bottom_color) {
 
   background-color: $fallback_color;
