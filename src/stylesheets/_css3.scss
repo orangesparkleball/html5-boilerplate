@@ -22,3 +22,10 @@
             filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='$top_color', EndColorStr='$bottom_color'); 
   
 }
+
+@mixin border_radius($radius){
+
+     -moz-border-radius: $radius; 
+  -webkit-border-radius: $radius; 
+          border-radius: $radius; 
+}  
