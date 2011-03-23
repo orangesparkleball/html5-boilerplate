@@ -11,7 +11,7 @@
           box-shadow: $offset_x $offset_y $spread $color;
 }
 
-@mixin linear_gradient($top_color, $bottom_color, $fallback = $bottom_color) {
+@mixin linear_gradient($top_color, $bottom_color, $fallback_color = $bottom_color) {
 
   background-color: $fallback_color;
   background-image: -moz-linear-gradient(top, $top_color, $bottom_color); 
