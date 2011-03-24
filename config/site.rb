@@ -1,5 +1,5 @@
 require 'hashie'
-
+require 'src/lib/sass_addons'
 CONFIG = Hashie::Mash.new
 Haml::Engine::CONFIG = CONFIG
 CONFIG.site_name = "Default Site"
