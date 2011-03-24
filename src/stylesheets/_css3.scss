@@ -34,7 +34,7 @@
    -moz-transform: rotate($degrees);  
      -o-transform: rotate($degrees);  
 -webkit-transform: rotate($degrees);
-            $radians: #{((Math.PI*2)/360)*$degrees.value};
+            $radians: ((3.1415926535*2)/360)*$degrees.value;
            filter:  progid:DXImageTransform.Microsoft.Matrix(M11=#{cos($radians)}, M12=#{-1*sin($radians)}, M21=#{sin($radians)}, M22=#{cos($radians)},sizingMethod='auto expand');
        -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=#{cos($radians)}, M12=#{-1*sin($radians)}, M21=#{sin($radians)}, M22=#{cos($radians)},sizingMethod='auto expand')";
              zoom: 1;
