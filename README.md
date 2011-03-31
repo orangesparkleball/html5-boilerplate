@@ -1,6 +1,6 @@
 #  HTML5 Boilerplate [http://html5boilerplate.com](http://html5boilerplate.com)
 
-OSB HTML5 Boilerplate - html5boilerplate adapted to use staticmatic (for
+The OSB HTML5 Boilerplate - html5boilerplate adapted to use staticmatic (for
 HAML and SASSy goodness).
 
 To use: 
