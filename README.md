@@ -3,7 +3,6 @@
 The OSB HTML5 Boilerplate - html5boilerplate adapted to use staticmatic (for
 HAML and SASSy goodness). 
 
-
 To use: 
 
     $ bundle install
