@@ -11,7 +11,6 @@ To use:
     $ bundle exec staticmatic build .
 
 
-
 Useful links for development
 ============================
 
